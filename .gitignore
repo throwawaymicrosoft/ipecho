@@ -1,0 +1,5 @@
+.idea
+description-pak
+obj
+*.tgz
+*.deb
